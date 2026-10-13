@@ -1,0 +1,15 @@
+[submodule "canokey-crypto"]
+	path = canokey-crypto
+	url = https://github.com/canokeys/canokey-crypto.git
+[submodule "littlefs"]
+	path = littlefs
+	url = https://github.com/ARMmbed/littlefs.git
+[submodule "tinycbor"]
+	path = tinycbor
+	url = https://github.com/intel/tinycbor.git
+[submodule "test-real/shunit2"]
+	path = test-real/shunit2
+	url = https://github.com/kward/shunit2.git
+[submodule "tinyusb"]
+	path = tinyusb
+	url = https://github.com/canokeys/tinyusb

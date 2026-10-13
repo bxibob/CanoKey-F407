@@ -1,0 +1,21 @@
+# ===== 构建产物 =====
+build/
+build-*/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.obj
+*.lst
+
+# ===== 日志 =====
+*.log
+
+# ===== OS / 编辑器 / IDE =====
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
